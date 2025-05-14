@@ -1,13 +1,7 @@
 # CheatSheets-compilation
-The ultimate Cheat sheets compilation (200+) - 🔥🎁 / Roadmap to dev 🚀
+Cheat sheets compilation 
 
-`Hello World` Today I wanted to share with you my Cheatsheet Compilation that every dev should know about.<a name="top"></a>
-
-The most complete cheat sheet compilation you can find online!
-
-> PS: It took me more than 10 hours to  create this compilation - So please **remember to star 🌟 and maybe fork 🍴 the repo**
-
-Article version: https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-100-268g
+<a name="top"></a>
 
 ---
 
@@ -1684,16 +1678,8 @@ C:
  
 Here at dev.to - [Ultimate Linux Cheat Sheet](https://dev.to/forcommunity/ultimate-linux-cheat-sheet-4gm5) - By Justin Varghese
 
-Ps: [I add the web dev checklist!](https://www.toptal.com/developers/webdevchecklist)
-
-
-
 ---
 
 <a name="bottom"></a>
 
 Hope this helped!
-
-**Remember the ⭐**
-
-[My blog](https://dev.to/devlorenzo/the-ultimate-compilation-of-cheat-sheets-100-268g)
